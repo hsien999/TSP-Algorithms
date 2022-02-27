@@ -12,14 +12,7 @@ heuristics, genetic algorithm). It provides a step-by-step visualization of each
 
 1. Install
 
-   The easiest way to prepare the environment with all required packages is to use conda or pypi.
-
-   conda:
-    ```shell
-    conda env create -f environment.yml
-    ```
-
-   pypi:
+   The easiest way to prepare the environment with all required packages is to use pypi.
 
     ```shell
     pip install -r requirements.txt
